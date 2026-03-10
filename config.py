@@ -4,7 +4,7 @@
 """
 
 # Токен бота (выдан @BotFather)
-BOT_TOKEN = "7293028171:AAEkMf8W0_hiluGauxJ8YOmaVp5qTw3QpOw"
+BOT_TOKEN = "8291201635:AAG28xhtDR2b-UnAVc_j8zOE5c7_HofVWR0"
 
 # ID администратора (владельца бота)
 ADMIN_ID = 5408585719
